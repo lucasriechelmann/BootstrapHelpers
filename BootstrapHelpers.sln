@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootstrapHelpers.UI", "BootstrapHelpers.UI\BootstrapHelpers.UI.csproj", "{BC9277DA-CC91-4F48-B0BE-6843F9A25264}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootstrapHelpers", "BootstrapHelpers\BootstrapHelpers.csproj", "{748D4EBE-9477-4412-BCBE-CC15155B39B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC9277DA-CC91-4F48-B0BE-6843F9A25264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC9277DA-CC91-4F48-B0BE-6843F9A25264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC9277DA-CC91-4F48-B0BE-6843F9A25264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC9277DA-CC91-4F48-B0BE-6843F9A25264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{748D4EBE-9477-4412-BCBE-CC15155B39B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748D4EBE-9477-4412-BCBE-CC15155B39B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748D4EBE-9477-4412-BCBE-CC15155B39B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748D4EBE-9477-4412-BCBE-CC15155B39B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D634C313-64EB-48C1-8523-4CF793DF6EBF}
+	EndGlobalSection
+EndGlobal
